@@ -6,7 +6,7 @@ layout: page
 title: People
 ---
 
-The group is co-chaired by Marcus Barkowsky, Glenn Van Wallendael, and Enrico Masala. They have been designated in the bi-annual face-to-face [VQEG meetings](https://www.its.bldrdoc.gov/vqeg/meetings-home.aspx).
+The group is co-chaired by Marcus Barkowsky, Glenn Van Wallendael, and Enrico Masala. They have been designated in the past bi-annual face-to-face [VQEG meetings](https://www.its.bldrdoc.gov/vqeg/meetings-home.aspx).
 
 Here is a non-exhaustive list of people, in alphabetical order, who contributed to various activities (since 2021):
 
@@ -24,5 +24,5 @@ Here is a non-exhaustive list of people, in alphabetical order, who contributed 
 
 * Enrico Masala, [Politecnico di Torino Technical University](https://media.polito.it), Turin, Italy.
 
-* Glenn Van Wallendael, Ghent University, Belgium.
+* Glenn Van Wallendael, [Ghent University](https://www.ugent.be/en), Belgium.
 
