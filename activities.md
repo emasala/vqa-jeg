@@ -4,6 +4,7 @@
 
 layout: page
 title: Activities
+permalink: /activities
 ---
 
 Current activities include:

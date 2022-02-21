@@ -4,6 +4,7 @@
 
 layout: page
 title: About
+permalink: /about
 ---
 
 If you are interested in joining the group, please join the reflector (maintained by VQEG): [jeg@lyris.vqeg.org](mailto:jeg@lyris.vqeg.org)

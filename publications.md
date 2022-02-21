@@ -4,14 +4,15 @@
 
 layout: page
 title: Publications
+permalink: /publications
 ---
 
 
 List of scientific publications directly originating from activity conducted in this group:
 
-* Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Masala Enrico, "Mimicking individual media quality perception with neural network based artificial observers", in *ACM Transactions on Multimedia Computing, Communications and Applications*, 2022, vol. 18, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393). Download [Preprint](https://iris.polito.it/handle/11583/2909256)
+* Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Masala Enrico, "**Mimicking individual media quality perception with neural network based artificial observers**", in *ACM Transactions on Multimedia Computing, Communications and Applications*, 2022, vol. 18, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393). Download [Preprint](https://iris.polito.it/handle/11583/2909256)
 
-* Lohic Fotio Tiotsop, Florence Agboma, Glenn Van Wallendael, Ahmed Aldahdooh, Sebastian Bosse, Lucjan Janowski, Marcus Barkowsky, Enrico Masala, "On the Link Between Subjective Score Prediction and Disagreement of Video Quality Metrics", *IEEE Access*, 2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395). Download [open access](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
+* Lohic Fotio Tiotsop, Florence Agboma, Glenn Van Wallendael, Ahmed Aldahdooh, Sebastian Bosse, Lucjan Janowski, Marcus Barkowsky, Enrico Masala, "**On the Link Between Subjective Score Prediction and Disagreement of Video Quality Metrics**", *IEEE Access*, 2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395). Download [open access](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
 
 
 * ...

@@ -4,6 +4,7 @@
 
 layout: home
 title: Mission
+permalink: /mission
 ---
 
 The group is an activity within the [Video Quality Experts Group (VQEG)](https://vqeg.org) that originated in 2009 in the context of the Joint Effort Group (JEG) with the name of JEG-Hybrid. The original aim was to develop an hybrid perceptual/bit-stream model. Over time, the activities changed to involve different areas of Video Quality Assessment (VQA), in particular tackling new research questions with hopefully long term impact on the video quality research community.
