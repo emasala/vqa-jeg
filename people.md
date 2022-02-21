@@ -4,6 +4,7 @@
 
 layout: page
 title: People
+#permalink: /people
 ---
 
 The group is co-chaired by Marcus Barkowsky, Glenn Van Wallendael, and Enrico Masala. They have been designated in the past bi-annual face-to-face [VQEG meetings](https://www.its.bldrdoc.gov/vqeg/meetings-home.aspx).
