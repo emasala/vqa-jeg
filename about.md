@@ -7,9 +7,7 @@ title: About
 permalink: /about
 ---
 
-If you are interested in joining the group, please join the reflector (maintained by VQEG): [jeg@lyris.vqeg.org](mailto:jeg@lyris.vqeg.org)
-
-Conference calls are held every 2 weeks. Next dates are March 7, 2022, 4PM CET/CEST; March 21, 2022, 4 PM CET/CEST, etc.
+If you are interested in joining the group, please join the reflector (maintained by VQEG): [jeg@lyris.vqeg.org](mailto:jeg@lyris.vqeg.org). Meeting info [here]({{site.baseurl}}/meetings).
 
 Please be aware that this is a scientific working group. This implies that often results are yet unverified. In many cases, researchers also lack time to document work-in-progress. Please consider this as reason why there is not a lot of written documentation available. We discuss work in progress in our biweekly conference calls and either officially publish the results or update the documentation when our research is stable and validated.
 
