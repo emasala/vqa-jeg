@@ -4,6 +4,7 @@
 
 layout: page
 title: Resources
+permalink: /resources
 ---
 
 Here is a non-exhaustive list of resources used by the group, made available to the research community.
