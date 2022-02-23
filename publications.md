@@ -22,7 +22,6 @@ by: Lohic Fotio Tiotsop, Florence Agboma, Glenn Van Wallendael, Ahmed Aldahdooh,
 in *IEEE Access*,  
 Nov 2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395). Download [open access](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
 
-
 * **How to Train No Reference Video Quality Measures for New Coding Standards using Existing Annotated Datasets?**,  
 by Lohic Fotio Tiotsop, Tomas Mizdos, Enrico Masala, Marcus Barkowsky, Peter Pocta,  
 in *Proc. of IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)*,  
@@ -36,6 +35,7 @@ in *Human Vision and Electronic Imaging (HVEI) 2020*,
 
 * **Predicting Single Observer's Votes from Objective Measures using Neural Networks**,  
 by Lohic Fotio Tiotsop, Tomas Mizdos, Miroslav Uhrina, Peter Pocta, Marcus Barkowsky, Enrico Masala,  
+in *Human Vision and Electronic Imaging (HVEI) 2020*,  
 2020 Burlingame, CA, USA, Jan 2020, DOI: [10.2352/ISSN.2470-1173.2020.11.HVEI-130](http://dx.doi.org/10.2352%2FISSN.2470-1173.2020.11.HVEI-130) Download [open access](https://www.ingentaconnect.com/content/ist/ei/pre-prints/content-ei2020-hvei-130
 )
 
@@ -76,9 +76,9 @@ in *Digital Signal Processing*,
 Jun 2018, vol. 77, pp. 195-206, DOI: [10.1016/j.dsp.2017.09.013](http://dx.doi.org/10.1016/j.dsp.2017.09.013) Download [Preprint](http://hdl.handle.net/11583/2689456)
 
 * **Comparing Simple Video Quality Measures for Loss-Impaired Video Sequences on a Large-Scale Database**,  
-Ahmed Aldahdooh, Enrico Masala, Olivier Janssens, Glenn Van Wallendael, Marcus Barkowsky,  
+by Ahmed Aldahdooh, Enrico Masala, Olivier Janssens, Glenn Van Wallendael, Marcus Barkowsky,  
 in *Proc. 8th International Conference on Quality of Multimedia Experience (QoMEX)*,  
-Jun 2016, pp. 1-6, Lisbon, Portugal, Jun 2016, DOI: [10.1109/QoMEX.2016.7498941](http://dx.doi.org/10.1109/QoMEX.2016.7498941) Download []() ???????????
+Jun 2016, pp. 1-6, Lisbon, Portugal, Jun 2016, DOI: [10.1109/QoMEX.2016.7498941](http://dx.doi.org/10.1109/QoMEX.2016.7498941) Download [Preprint](http://hdl.handle.net/11583/2658038)
 
 * ...
 
