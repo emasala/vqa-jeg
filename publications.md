@@ -36,13 +36,13 @@ in *Human Vision and Electronic Imaging (HVEI) 2020*,
 
 * **Predicting Single Observer's Votes from Objective Measures using Neural Networks**,  
 by Lohic Fotio Tiotsop, Tomas Mizdos, Miroslav Uhrina, Peter Pocta, Marcus Barkowsky, Enrico Masala,  
-2020 Burlingame, CA, USA, Jan 2020, DOI: [10.2352%2FISSN.2470-1173.2020.11.HVEI-130](http://dx.doi.org/10.2352%2FISSN.2470-1173.2020.11.HVEI-130) Download [open access](https://www.ingentaconnect.com/content/ist/ei/pre-prints/content-ei2020-hvei-130
+2020 Burlingame, CA, USA, Jan 2020, DOI: [10.2352/ISSN.2470-1173.2020.11.HVEI-130](http://dx.doi.org/10.2352%2FISSN.2470-1173.2020.11.HVEI-130) Download [open access](https://www.ingentaconnect.com/content/ist/ei/pre-prints/content-ei2020-hvei-130
 )
 
 * **Full Reference Video Quality Measures Improvement using Neural Networks**,  
 by Lohic Fotio Tiotsop, Antonio Servetti, Enrico Masala,  
 in *Proc. of IEEE 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*,  
-2020, pp. 2737-2741, Barcelona, Spain, May 2020, DOI: [10.1109%2FICASSP40776.2020.9053739](http://dx.doi.org/10.1109%2FICASSP40776.2020.9053739) Download [open access](http://hdl.handle.net/11583/2840345)
+2020, pp. 2737-2741, Barcelona, Spain, May 2020, DOI: [10.1109/ICASSP40776.2020.9053739](http://dx.doi.org/10.1109/ICASSP40776.2020.9053739) Download [open access](http://hdl.handle.net/11583/2840345)
 
 
 * **Modeling and estimating the subjects' diversity of opinions in video quality assessment: a neural network based approach**,  
