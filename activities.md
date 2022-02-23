@@ -7,7 +7,7 @@ title: Activities
 permalink: /activities
 ---
 
-Current activities include:
+Current activities include but are not limited to:
 
 * Modeling single observers: to mimic the behavior of single observers in subjective experiments, to investigate/understand their characteristics, and potentially to run "virtual" subjective experiments.
 
@@ -23,4 +23,4 @@ Current activities include:
 
 * Using large scale (not subjectively annotated) datasets to identify shortcomings of common Video Quality Metrics (VQMs) in various conditions, e.g., different coding parameters, lossy channels.
 
-More information is available in the corresponding [publications]({{site.baseurl}}/publications).
+More information is available in the [publications page]({{site.baseurl}}/publications).

@@ -16,7 +16,7 @@
 title: VQA-JEG
 email: jeg@lyris.vqeg.org
 description: >- # this means to ignore newlines until "baseurl:"
-  The website of the VQEG VQA-JEG project
+  The official website of the project
 baseurl: "/vqa-jeg" # the subpath of your site, e.g. /blog
 url: "https://emasala.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "emasala/vqa-jeg"
