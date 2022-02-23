@@ -13,14 +13,14 @@ permalink: /publications
 List of scientific publications originating from activities conducted directly or in collaboration with this group:
 
 * **Mimicking individual media quality perception with neural network based artificial observers**,  
-by: Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Masala Enrico,  
+by: Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Enrico Masala,  
 in *ACM Transactions on Multimedia Computing, Communications and Applications*,  
-2022, vol. 18, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393). Download [Preprint](https://iris.polito.it/handle/11583/2909256)
+Jan 2022, vol. 18, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393). Download [Preprint](https://iris.polito.it/handle/11583/2909256)
 
 * **On the Link Between Subjective Score Prediction and Disagreement of Video Quality Metrics**,  
 by: Lohic Fotio Tiotsop, Florence Agboma, Glenn Van Wallendael, Ahmed Aldahdooh, Sebastian Bosse, Lucjan Janowski, Marcus Barkowsky, Enrico Masala,  
 in *IEEE Access*,  
-2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395). Download [open access](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
+Nov 2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395). Download [open access](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
 
 
 * **How to Train No Reference Video Quality Measures for New Coding Standards using Existing Annotated Datasets?**,  
@@ -46,39 +46,39 @@ in *Proc. of IEEE 45th International Conference on Acoustics, Speech, and Signal
 
 
 * **Modeling and estimating the subjects' diversity of opinions in video quality assessment: a neural network based approach**,  
-by Lohic Fotio Tiotsop, Tomas Mizdos, Miroslav Uhrina, Marcus Barkowsky, Peter Pocta,Enrico Masala,  
+by Lohic Fotio Tiotsop, Tomas Mizdos, Miroslav Uhrina, Marcus Barkowsky, Peter Pocta, Enrico Masala,  
 in *Multimedia Tools and Applications*,  
-2020, vol. 80, p. 1-19, DOI: [10.1007/s11042-020-09704-w](http://dx.doi.org/10.1007/s11042-020-09704-w) Download [open access](http://dx.doi.org/10.1007/s11042-020-09704-w)
-
-* **Improving relevant subjective testing for validation: Comparing machine learning algorithms for finding similarities in VQA datasets using objective measures**,  
-by Ahmed Aldahdooh, Enrico Masala, Glenn Van Wallendael, Peter Lambert, Marcus Barkowsky,  
-in *Signal Processing: Image Communication*,  
-2019, pp. 32-41, DOI: [http://dx.doi.org/10.1016/j.image.2019.01.004](http://dx.doi.org/10.1016/j.image.2019.01.004) Download [Preprint](http://hdl.handle.net/11583/2781812)
+Sep 2020, vol. 80, p. 1-19, DOI: [10.1007/s11042-020-09704-w](http://dx.doi.org/10.1007/s11042-020-09704-w) Download [open access](http://dx.doi.org/10.1007/s11042-020-09704-w)
 
 * **Improved Performance Measures for Video Quality Assessment Algorithms Using Training and Validation Sets**,  
 by Ahmed Aldahdooh, Enrico Masala, Olivier Janssens, Glenn Van Wallendael, Marcus Barkowsky, Patrick Le Callet,  
 in *IEEE Transactions on Multimedia*,  
-2019, vol. 21, no. 8, pp. 2026-2014, DOI: [10.1109/TMM.2018.2882091](http://dx.doi.org/10.1109/TMM.2018.2882091) Download [Preprint](http://hdl.handle.net/11583/2781792)
+Aug 2019, vol. 21, no. 8, pp. 2026-2014, DOI: [10.1109/TMM.2018.2882091](http://dx.doi.org/10.1109/TMM.2018.2882091) Download [Preprint](http://hdl.handle.net/11583/2781792)
 
 * **Computing Quality-of-Experience Ranges for Video Quality Estimation**,  
 by Lohic Fotio Tiotsop, Enrico Masala, Ahmed Aldahdooh, Glenn Van Wallendael, Marcus Barkowsky,  
 in *Proc. 11th International Conference on Quality of Multimedia Experience (QoMEX)*,  
-2019, pp. 1-3, Berlin, Germany, Jun 2019, DOI: [10.1109/QoMEX.2019.8743303](http://dx.doi.org/10.1109/QoMEX.2019.8743303) Download [Preprint](http://hdl.handle.net/11583/2749793)
+Jun 2019, pp. 1-3, Berlin, Germany, Jun 2019, DOI: [10.1109/QoMEX.2019.8743303](http://dx.doi.org/10.1109/QoMEX.2019.8743303) Download [Preprint](http://hdl.handle.net/11583/2749793)
 
-* **Framework for reproducible objective video quality research with case study on PSNR implementations**,  
-by Ahmed Aldahdooh, Enrico Masala, Glenn Van Wallendael, Marcus Barkowsky,  
-in *Digital Signal Processing*,  
-2018, vol. 77, pp. 195-206, DOI: [10.1016/j.dsp.2017.09.013](http://dx.doi.org/10.1016/j.dsp.2017.09.013) Download [Preprint](http://hdl.handle.net/11583/2689456)
+* **Improving relevant subjective testing for validation: Comparing machine learning algorithms for finding similarities in VQA datasets using objective measures**,  
+by Ahmed Aldahdooh, Enrico Masala, Glenn Van Wallendael, Peter Lambert, Marcus Barkowsky,  
+in *Signal Processing: Image Communication*,  
+May 2019, pp. 32-41, DOI: [http://dx.doi.org/10.1016/j.image.2019.01.004](http://dx.doi.org/10.1016/j.image.2019.01.004) Download [Preprint](http://hdl.handle.net/11583/2781812)
 
 * **Reproducible research framework for objective video quality measures using a large-scale database approach**,  
 by Ahmed Aldahdooh, Enrico Masala, Glenn Van Wallendael, Marcus Barkowsky,  
 in *SoftwareX*,  
-2018, vol. 8, pp. 64-68, DOI: [10.1016/j.softx.2017.09.004](http://dx.doi.org/10.1016/j.softx.2017.09.004) Download [Open access/preprint](http://hdl.handle.net/11583/2694630)
+Jul 2018, vol. 8, pp. 64-68, DOI: [10.1016/j.softx.2017.09.004](http://dx.doi.org/10.1016/j.softx.2017.09.004) Download [Open access/preprint](http://hdl.handle.net/11583/2694630)
+
+* **Framework for reproducible objective video quality research with case study on PSNR implementations**,  
+by Ahmed Aldahdooh, Enrico Masala, Glenn Van Wallendael, Marcus Barkowsky,  
+in *Digital Signal Processing*,  
+Jun 2018, vol. 77, pp. 195-206, DOI: [10.1016/j.dsp.2017.09.013](http://dx.doi.org/10.1016/j.dsp.2017.09.013) Download [Preprint](http://hdl.handle.net/11583/2689456)
 
 * **Comparing Simple Video Quality Measures for Loss-Impaired Video Sequences on a Large-Scale Database**,  
 Ahmed Aldahdooh, Enrico Masala, Olivier Janssens, Glenn Van Wallendael, Marcus Barkowsky,  
 in *Proc. 8th International Conference on Quality of Multimedia Experience (QoMEX)*,  
-2016, pp. 1-6, Lisbon, Portugal, Jun 2016, DOI: [10.1109/QoMEX.2016.7498941](http://dx.doi.org/10.1109/QoMEX.2016.7498941) Download []() ???????????
+Jun 2016, pp. 1-6, Lisbon, Portugal, Jun 2016, DOI: [10.1109/QoMEX.2016.7498941](http://dx.doi.org/10.1109/QoMEX.2016.7498941) Download []() ???????????
 
 * ...
 
