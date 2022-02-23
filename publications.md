@@ -10,7 +10,7 @@ permalink: /publications
 [//]: # (COMMENT: to add newline, add 2 spaces at the end of the line)
 
 
-List of scientific publications directly originating from activity conducted in this group:
+List of scientific publications originating from activities conducted directly or in collaboration with this group:
 
 * **Mimicking individual media quality perception with neural network based artificial observers**,  
 by: Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Masala Enrico,  
@@ -27,7 +27,7 @@ in *IEEE Access*,
 by Lohic Fotio Tiotsop, Tomas Mizdos, Enrico Masala, Marcus Barkowsky, Peter Pocta,  
 in *Proc. of IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)*,  
 2021, pp. 1-6, Tampere, Finland, Oct 2021.  
-???????????  Download [Preprint](http://hdl.handle.net/11583/2924852)
+DOI: (*not yet available*)  Download [Preprint](http://hdl.handle.net/11583/2924852)
 
 *  **Investigating Prediction Accuracy of Full Reference Objective Video Quality Measures through the ITS4S Dataset**,  
 by Lohic Fotio Tiotsop, Antonio Servetti, Enrico Masala,  
@@ -73,7 +73,7 @@ in *Digital Signal Processing*,
 * **Reproducible research framework for objective video quality measures using a large-scale database approach**,  
 by Ahmed Aldahdooh, Enrico Masala, Glenn Van Wallendael, Marcus Barkowsky,  
 in *SoftwareX*,  
-2018, vol. 8, pp. 64-68, DOI: [10.1016/j.softx.2017.09.004](http://dx.doi.org/10.1016/j.softx.2017.09.004) Download [Open access](http://hdl.handle.net/11583/2694630)
+2018, vol. 8, pp. 64-68, DOI: [10.1016/j.softx.2017.09.004](http://dx.doi.org/10.1016/j.softx.2017.09.004) Download [Open access/preprint](http://hdl.handle.net/11583/2694630)
 
 * **Comparing Simple Video Quality Measures for Loss-Impaired Video Sequences on a Large-Scale Database**,  
 Ahmed Aldahdooh, Enrico Masala, Olivier Janssens, Glenn Van Wallendael, Marcus Barkowsky,  
