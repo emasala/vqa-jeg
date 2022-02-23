@@ -14,7 +14,11 @@ Here is a non-exhaustive list of resources used by the group, made available to 
 
 ## Software
 
-* Robust decoder 
+List of software tools freely available for research purposes, developed in the context of the groups' activities or made available for the group:
+
+* [Robust AVC decoder](https://media.polito.it/jeg){:target=_blank}
+
+* [PVQM quality measure](https://media.polito.it/jeg){:target=_blank}
 
 * AI Observers (to be published soon)
 
