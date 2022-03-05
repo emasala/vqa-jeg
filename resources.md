@@ -10,7 +10,7 @@ Here is a non-exhaustive list of resources used by the group, made available to 
 
 ## Datasets
 
-* [Large scale dataset of HEVC-encoded video sequences]({{site.baseurl}}/large_scale_dataset_HEVC)
+* [Large scale dataset of HEVC-encoded video sequences]({{site.baseurl}}/resources/large_scale_dataset_HEVC)
 
 * [Precomputed VQMs for the ITS4S dataset](https://media.polito.it/its4s/){: target=_blank}  
   (accompanying the paper ["Full Reference Video Quality Measures Improvement using Neural Networks"](http://dx.doi.org/10.1109/ICASSP40776.2020.9053739) [(alt link)](http://hdl.handle.net/11583/2840345) published in IEEE ICASSP 2020)
