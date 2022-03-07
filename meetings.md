@@ -11,12 +11,12 @@ Conference calls are held online every 2 weeks. Duration about 1 hour, occasiona
 
 Meeting dates:
 
-* March 7, 2022, 4 PM CET/CEST [Zoom link](https://th-deg-de.zoom.us/j/81780467139)
-* March 21, 2022, 4 PM CET/CEST [Zoom link](https://th-deg-de.zoom.us/j/81780467139)
-* April 4, 2022, 4 PM CET/CEST [Zoom link](https://th-deg-de.zoom.us/j/81780467139)
-* May 2, 2022, 4 PM CET/CEST [Zoom link](https://th-deg-de.zoom.us/j/81780467139)
-* May 16, 2022, 4 PM CET/CEST [Zoom link](https://th-deg-de.zoom.us/j/81780467139)
-* May 30, 2022, 4 PM CET/CEST [Zoom link](https://th-deg-de.zoom.us/j/81780467139)
+* March 7, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* March 21, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* April 4, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* May 2, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* May 16, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
+* May 30, 2022, 4 PM CET/CEST (Contact co-chairs for the zoom link)
 
 Schedule is adapted once in a while to facilitate participation by most of the attendees. Polls and modifications are sent to the reflector well ahead of time. Do not forget to join the reflector: [jeg@lyris.vqeg.org](mailto:jeg@lyris.vqeg.org)
 
