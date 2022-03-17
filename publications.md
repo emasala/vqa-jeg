@@ -15,18 +15,18 @@ List of scientific publications originating from activities conducted directly o
 * **Mimicking individual media quality perception with neural network based artificial observers**,  
 by: Lohic Fotio Tiotsop, Tomas Mizdos, Marcus Barkowsky, Peter Pocta, Antonio Servetti, Enrico Masala,  
 in *ACM Transactions on Multimedia Computing, Communications and Applications*,  
-Jan 2022, vol. 18, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393). Download [Preprint](https://iris.polito.it/handle/11583/2909256)
+Jan 2022, vol. 18, pp. 12:1-12:25, DOI: [10.1145/3464393](http://dx.doi.org/10.1145/3464393) Download [Preprint](https://iris.polito.it/handle/11583/2909256)
 
 * **On the Link Between Subjective Score Prediction and Disagreement of Video Quality Metrics**,  
 by: Lohic Fotio Tiotsop, Florence Agboma, Glenn Van Wallendael, Ahmed Aldahdooh, Sebastian Bosse, Lucjan Janowski, Marcus Barkowsky, Enrico Masala,  
 in *IEEE Access*,  
-Nov 2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395). Download [open access](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
+Nov 2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://dx.doi.org/10.1109/ACCESS.2021.3127395) Download [open access](http://dx.doi.org/10.1109/ACCESS.2021.3127395)
 
 * **How to Train No Reference Video Quality Measures for New Coding Standards using Existing Annotated Datasets?**,  
 by Lohic Fotio Tiotsop, Tomas Mizdos, Enrico Masala, Marcus Barkowsky, Peter Pocta,  
 in *Proc. of IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)*,  
 2021, pp. 1-6, Tampere, Finland, Oct 2021.  
-DOI: (*not yet available*)  Download [Preprint](http://hdl.handle.net/11583/2924852)
+DOI: [10.1109/MMSP53017.2021.9733456](http://dx.doi.org/10.1109/MMSP53017.2021.9733456) Download [Preprint](http://hdl.handle.net/11583/2924852)
 
 *  **Investigating Prediction Accuracy of Full Reference Objective Video Quality Measures through the ITS4S Dataset**,  
 by Lohic Fotio Tiotsop, Antonio Servetti, Enrico Masala,  

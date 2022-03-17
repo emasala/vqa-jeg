@@ -29,5 +29,5 @@ List of software tools freely available for research purposes, developed in the 
 
 * AI Observers (to be published soon)
 
-Also, take a look to the [VQEG Tools and Subjective Labs Setup](https://vqeg.github.io/software-tools/){:target="_blank"} website that contains other resources and links.
+Also, take a look to the [VQEG Tools and Subjective Labs Setup](https://vqeg.github.io/software-tools/){:target=_blank} website that contains other resources and links.
 
