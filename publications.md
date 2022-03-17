@@ -25,8 +25,7 @@ Nov 2021, vol. 9, pp. 152923-152937, DOI: [10.1109/ACCESS.2021.3127395](http://d
 * **How to Train No Reference Video Quality Measures for New Coding Standards using Existing Annotated Datasets?**,  
 by Lohic Fotio Tiotsop, Tomas Mizdos, Enrico Masala, Marcus Barkowsky, Peter Pocta,  
 in *Proc. of IEEE 23rd International Workshop on Multimedia Signal Processing (MMSP)*,  
-2021, pp. 1-6, Tampere, Finland, Oct 2021.  
-DOI: [10.1109/MMSP53017.2021.9733456](http://dx.doi.org/10.1109/MMSP53017.2021.9733456) Download [Preprint](http://hdl.handle.net/11583/2924852)
+2021, pp. 1-6, Tampere, Finland, Oct 2021. DOI: [10.1109/MMSP53017.2021.9733456](http://dx.doi.org/10.1109/MMSP53017.2021.9733456) Download [Preprint](http://hdl.handle.net/11583/2924852)
 
 *  **Investigating Prediction Accuracy of Full Reference Objective Video Quality Measures through the ITS4S Dataset**,  
 by Lohic Fotio Tiotsop, Antonio Servetti, Enrico Masala,  
